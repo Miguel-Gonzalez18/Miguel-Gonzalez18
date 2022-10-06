@@ -1,14 +1,14 @@
-Hi, I'm @Miguel-Gonzalez18
-- 👀 I'm interested in programming, web development and mobile application development
+Hola soy @Miguel-Gonzalez18
+- 👀 Me interesa la programación, el desarrollo web y el desarrollo de aplicaciones móviles
 
-- 🌱 I am currently learning React, React Native, Next, MongoDB and always improving my development skills
+- 🌱 Actualmente estoy aprendiendo React, React Native, Next, MongoDB y siempre mejorando mis habilidades de desarrollo
 
-- 💞️ I seek to collaborate on projects that give me value and knowledge, work as a team and thus contribute my knowledge obtained
+- 💞️ Busco colaborar en proyectos que me aporten valor y conocimiento, trabajar en equipo y así aportar mis conocimientos obtenidos
 
-- 📫 How to contact me:
+- 📫 Cómo contactarme:
 - Linkedin: https://www.linkedin.com/in/miguel-%C3%A1ngel-gonz%C3%A1lez-770459219
 - Instagram: https://www.instagram.com/miguelangel09__/
-- Whatsapp: +1 849 351 3051
+- WhatsApp: +1 849 351 3051
 
 
 <!---
