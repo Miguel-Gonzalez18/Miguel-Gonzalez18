@@ -1,8 +1,6 @@
 Hola soy @Miguel-Gonzalez18
 - 👀 Me interesa la programación, el desarrollo web y el desarrollo de aplicaciones móviles
 
-- 🌱 Actualmente estoy aprendiendo React, React Native, Next, MongoDB y siempre mejorando mis habilidades de desarrollo
-
 - 💞️ Busco colaborar en proyectos que me aporten valor y conocimiento, trabajar en equipo y así aportar mis conocimientos obtenidos
 
 - 📫 Cómo contactarme:
