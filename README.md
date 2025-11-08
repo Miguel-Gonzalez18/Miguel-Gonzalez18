@@ -5,22 +5,11 @@
 
 ---
 
-## 🚀 Sobre mí
-
-Soy un desarrollador front-end y diseñador web apasionado por crear **experiencias digitales memorables** que conectan con las personas y potencian las marcas.
-
-Actualmente colaboro como **Diseñador Web y Desarrollador Front-End en Caribe Media**, trabajando en proyectos para **Infomedia PR (Puerto Rico)**.  
-He participado en el desarrollo de sitios web y landing pages para distintos sectores, desde pequeñas empresas hasta plataformas corporativas.
-
-Me enfoco en ofrecer soluciones **eficientes, modernas y con propósito**, fusionando el diseño visual con la funcionalidad técnica.
-
----
-
 ## 🧠 Habilidades Técnicas
 
 ### 🔹 Front-End
 - HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- React / Vite / Next.js  
+- React / Vite / Next.js / Astro
 - GSAP, Framer Motion  
 - TailwindCSS / SCSS / Styled Components
 
@@ -44,6 +33,7 @@ Me enfoco en ofrecer soluciones **eficientes, modernas y con propósito**, fusio
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Astro](https://img.shields.io/badge/Astro-0EA5A2?style=for-the-badge&logo=astro&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -51,7 +41,7 @@ Me enfoco en ofrecer soluciones **eficientes, modernas y con propósito**, fusio
 
 ## 📫 Contacto
 
-- 🌐 Portafolio: *(en construcción)*  
+- 🌐 Portafolio: [miguelcode.com](https://miguelcode.com/)  
 - 📧 **miguelgonzalezdev@gmail.com**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/miguel%C3%A1ngelgonz%C3%A1lez770459219) *(agrega tu enlace)*  
 
