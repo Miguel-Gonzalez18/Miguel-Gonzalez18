@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Miguel Ángel González
 
 ### 💻 Diseñador Web & Desarrollador Front-End  
-**WordPress | React | TypeScript | UX/UI Design | Figma**
+**WordPress | React | Astro | NextJs | TypeScript | UX/UI Design | Figma**
 
 ---
 
@@ -42,7 +42,7 @@
 ## 📫 Contacto
 
 - 🌐 Portafolio: [miguelcode.com](https://miguelcode.com/)  
-- 📧 **miguelgonzalezdev@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/miguel%C3%A1ngelgonz%C3%A1lez770459219) *(agrega tu enlace)*  
+- 📧 [**gonzalezmiguela816@gmain.com**](mailto:gonzalezmiguela816@gmain.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/miguel%C3%A1ngelgonz%C3%A1lez770459219)  
 
 ---
