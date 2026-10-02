@@ -53,7 +53,7 @@ Sitio en vivo y caso de estudio con el proceso técnico de cada uno.
 
 | Proyecto | Tipo | Stack | Caso de estudio |
 |---|---|---|---|
-| [**Axesa**](https://axesa.com/) | Rediseño web | Next.js · React · GSAP · Tailwind | [Ver caso](https://miguelcode.com/proyectos/axesa) |
+| [**Axesa**](https://axesa.com/) | Rediseño web | Next.js · React · GSAP · Tailwind · Wordpress Headless | [Ver caso](https://miguelcode.com/proyectos/axesa) |
 | [**Caribe Media**](https://caribemedia.com.do/) | Rediseño web | Astro · React · Tailwind | [Ver caso](https://miguelcode.com/proyectos/caribe-media) |
 | [**La Tribu BBQ**](https://latribubbq.com/) | Landing page | Astro · Tailwind | [Ver caso](https://miguelcode.com/proyectos/la-tribu-bbq) |
 | [**Finca San Luis**](https://fincasanluispr.com/) | Landing page | Astro · Tailwind | [Ver caso](https://miguelcode.com/proyectos/finca-san-luis-llc) |
