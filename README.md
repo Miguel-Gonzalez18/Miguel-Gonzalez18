@@ -1,6 +1,6 @@
 # Miguel Ángel González Jiménez
 
-### Software Engineer · Front-End & Full Stack
+### Software Engineer · Front-End
 **Astro · React · Next.js · TypeScript · Tailwind CSS · IA aplicada**
 
 Desarrollo sitios y productos web rápidos, mantenibles y optimizados para SEO. República Dominicana 🇩🇴
