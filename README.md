@@ -16,7 +16,7 @@ Desarrollo sitios y productos web rápidos, mantenibles y optimizados para SEO. 
 - **Desarrollo web full stack** con Astro, React, Next.js y TypeScript
 - **Arquitectura frontend** y componentes reutilizables
 - **SEO técnico y rendimiento**: Core Web Vitals, accesibilidad, carga
-- **Migraciones de WordPress** a arquitecturas modernas y estáticas
+- **Desarrollo, Mantenimiento y Migraciones en WordPress**
 - **Herramientas con IA**: asistentes y flujos con OpenAI, Claude y Gemini
 - **Backends ligeros** con Node.js + PostgreSQL / MySQL
 
